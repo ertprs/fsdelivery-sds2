@@ -7,7 +7,7 @@ type Props = {
     onSubmitt : () => void
 }
 
-function OrderSummary({ amount, totalPrice, onSubmitt: onSubmitt } : Props){
+function OrderSummary({ amount, totalPrice, onSubmitt } : Props){
 
     return(
         <div className="order-summary-container">
