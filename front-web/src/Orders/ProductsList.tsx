@@ -1,4 +1,3 @@
-import { on } from "process";
 import { checkSelectedProduct } from "./helper";
 import ProductCard from "./ProductCard";
 import { Product } from "./typess";
