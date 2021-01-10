@@ -58,7 +58,7 @@ function Orders(){
             <StepHeader />
             <ProductsList products={products} onSelectedProduct = {handleSelectProduct} selectedProducts = {selectedProducts}/>
             <OrderLocation onChangeLocation={location => setOrderLocation(location)}/>
-            <OrderSummary amount={selectedProducts.length} totalPrice={totalPrice} onSubmit={handleSubmit}/>
+            <OrderSummary amount={selectedProducts.length} totalPrice={totalPrice} onSubmitt={handleSubmit}/>
         </div>
         <Footer />
         </>
