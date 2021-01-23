@@ -3,12 +3,12 @@ import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import Header from './src/Header';
 import Home from './src/Home';
+import Routes from './src/Routes';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <Header />
-      <Home />
+      <Routes></Routes>
       <StatusBar style="auto" />
     </View>
   );
