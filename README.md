@@ -19,9 +19,9 @@ Agradeço muito a todos da [Dev Superior](https://youtube.com/devsuperior) por m
 
 ## Como rodar o projeto localmente :open_file_folder:
 ```# Para testar a aplicação localmente você precisa clonar o repositório. Em seu git bash use
-    git clone https://github.com/ofelipescherer/fsdelivery-sds2.git```
+    git clone https://github.com/ofelipescherer/fsdelivery-sds2.git
     
-```#Frontend Web
+  #Frontend Web
     # Abra o projeto na pasta frontend-web. Em seguida precisamos instalar o pacote npm. Caso tenha o node instalado utilize.
       npm install  
 
