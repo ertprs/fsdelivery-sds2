@@ -18,8 +18,9 @@ Agradeço muito a todos da [Dev Superior](https://youtube.com/devsuperior) por m
 - [Expo](https://expo.io)
 
 ## Como rodar o projeto localmente :open_file_folder:
-Para testar a aplicação localmente você precisa clonar o repositório. Em seu git bash use
-```git clone https://github.com/ofelipescherer/fsdelivery-sds2.git```
+```# Para testar a aplicação localmente você precisa clonar o repositório. Em seu git bash use
+    git clone https://github.com/ofelipescherer/fsdelivery-sds2.git```
+    
 ```#Frontend Web
     # Abra o projeto na pasta frontend-web. Em seguida precisamos instalar o pacote npm. Caso tenha o node instalado utilize.
       npm install  
@@ -35,7 +36,9 @@ Para testar a aplicação localmente você precisa clonar o repositório. Em seu
 
       >npm start
 
-   # Agora necessitamos instalar o aplicativo **expo** no seu smartphone ou em seu emulador. Após isso, escaneie o código QR e pronto, a aplicação será aberta.```
+   # Agora necessitamos instalar o aplicativo **expo** no seu smartphone ou em seu emulador. Após isso, escaneie o código QR e pronto, a aplicação será aberta.
+   ```
+
 
 ## Como usar :raising_hand:
 A tela inicial, serve apenas para dar boas vindas
