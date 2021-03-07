@@ -1,4 +1,4 @@
-# FS Delivery :walking:
+# FS Delivery :truck:
 > ** FS Delivery consiste em uma aplicação que gerencia o sistema de entregas de pedidos de um restaurante fictício chamado FS**
 
 A aplicação é dividade em três partes: O frontend web; o frontend mobile e o backend. Na parte web é onde que o cliente escolhe seu pedido e em seguida sua localização. A parte do backend é responsável por carregar o cardápio, ou seja, os produtos oferecidos. E por fim, no frontend mobile, é onde o entregador gerencia todos os pedidos que foram feitos pelo usuário. 
